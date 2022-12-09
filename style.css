@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+#name{
+    color: rgb(222, 236, 21);
+    
+}
+
+img{
+   float: left;
+}
+p{
+font-size: 20px;
+color: white;
+}
+h3{color: white;}
+#ab{
+    border:5px yellow;
+    
+    color: white;
+}
+#arr{
+    font-size: 30px;
+    color: yellow;
+}
